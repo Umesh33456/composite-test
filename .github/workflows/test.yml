@@ -12,6 +12,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Composite
-        uses: ./.github/actions/hello
+        uses: ./.github/actions/hell
         with:
           name: Umesh
